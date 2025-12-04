@@ -16,5 +16,6 @@ LazyData: true
 URL: https://github.com/igraph/igraph.r2cdocs
 BugReports: https://github.com/igraph/igraph.r2cdocs/issues
 Imports: 
+    purrr,
     rlang,
     roxygen2
